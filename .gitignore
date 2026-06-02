@@ -1,0 +1,24 @@
+# Build output
+bin/
+obj/
+publish/
+
+# IDE
+.vs/
+*.user
+*.suo
+*.swp
+.idea/
+
+# Secrets & environment
+.env
+appsettings.Local.json
+appsettings.Production.json
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
